@@ -1,0 +1,1 @@
+{"service":{"api_version":"v1","kind":"Service"},"deployment":{"api_version":"v1","kind":"Deployment"},"pod":{"api_version":"v1","kind":"Pod"},"job":{"api_version":"v1","kind":"Job"},"config_map":{"api_version":"v1","kind":"ConfigMap"}}
